@@ -1,0 +1,45 @@
+body {
+    height: 100vh;
+}
+
+ul {
+    list-style-type: none;
+}
+
+header{
+    background-color: #295174;
+    height: 64px;
+}
+
+.left li{
+ color: black;
+ font-size: 16px;
+ background-color: #fff;
+ padding: 4px;
+ border-radius: 5px;
+ cursor: pointer;
+}
+
+
+.container{
+    max-width: 1800px;
+}
+
+.col-3{
+    background-color: #4380b0;
+}
+
+.sidebar1, .sidebar2 {
+    background-color: #060912;
+    height: 250px;
+    width: 100%;
+}
+
+.sidebar1, .sidebar2 p{
+    color: #fff;
+    padding: 30px 0 0 150px;
+}
+.header-name{
+    height: 150px;
+    text-align: center;
+}

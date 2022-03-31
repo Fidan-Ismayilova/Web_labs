@@ -1,0 +1,28 @@
+body{
+    height: 100vh;
+}
+header{
+    height: 80px;
+    border-bottom: 1px solid black;
+}
+
+.menu ul{
+    list-style: none;
+}
+
+.container{
+    max-height: 1800px;
+}
+
+.projects div{
+    width: 250px;
+    height: 250px;
+}
+
+.banner{
+    height: 250px;
+}
+
+.highlight{
+    height: 500px;
+}
